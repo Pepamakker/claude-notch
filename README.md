@@ -13,7 +13,7 @@ animation and tells you what happened and in which chat. Click it and it takes y
    └────────────────────────────────┘          └──────────────────────────────────────────────┘
 ```
 
-Native macOS menu-bar app: Swift + SwiftUI, no dependencies. The interface text is currently in Portuguese (Brazil).
+Native macOS menu-bar app: Swift + SwiftUI, no dependencies. The interface is in English or Portuguese.
 
 ## What it does
 
