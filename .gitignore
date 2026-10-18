@@ -1,0 +1,14 @@
+# macOS e volume exFAT
+.DS_Store
+._*
+
+# build
+.build/
+*.xcodeproj
+*.zip
+
+# privado: fica só no Mac do autor, não vai para o GitHub
+CLAUDE.md
+.claude/
+Post X/
+PARA-O-OUTRO-CHAT.md
